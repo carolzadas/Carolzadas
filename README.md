@@ -2,6 +2,8 @@
 Sou desenvolvedora Front-end, curso **ADS** e atuo como **freelancer** em projetos web.  
 Gosto de transformar ideias em interfaces funcionais, organizadas e bem pensadas.
 
+📌 Aberta a novos projetos e parcerias.
+
 <div>
   <a href="https://github.com/carolzadas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolzadas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
